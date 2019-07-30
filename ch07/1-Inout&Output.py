@@ -16,3 +16,4 @@ np.savez('twoarr.npz', a, range_10 = b)
 f = np.load('twoarr.npz')
 print(f['arr_0']) # [1 2 3 4 5]
 print(f['range_10']) # [0 1 2 3 4 5 6 7 8 9]
+
