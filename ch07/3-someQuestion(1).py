@@ -68,3 +68,14 @@ print(a == b) # [ True False  True False]
 c = a == b
 print(c) # [ True False  True False]
 print(np.sum(c)) # 2
+
+# (2, 3) * (2, 3)
+a = np.array([[1, 2, 3],
+              [4, 5, 6]])
+b = np.array([[1, 2, 3],
+              [4, 5, 6]])
+print(a * b)
+
+# 实则为对应项相乘
+# [[ 1  4  9]
+#  [16 25 36]]
