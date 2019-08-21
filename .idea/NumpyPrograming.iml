@@ -4,6 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.7 (NumpyPrograming)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="My-Deep-Learning-from-scratch" />
+    <orderEntry type="module" module-name="Deep-Learning-from-scratch" />
+    <orderEntry type="module" module-name="PyPrograming" />
+    <orderEntry type="module" module-name="PyTest" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

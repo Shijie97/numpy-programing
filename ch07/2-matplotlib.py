@@ -5,11 +5,14 @@ from matplotlib import pyplot as plt
 import numpy as np
 
 x = np.arange(-10, 10, 0.1)
-y = np.sin(x)
+y1 = np.sin(x)
+y2 = np.cos(x)
 plt.title('sin(x)')
 plt.xlabel('x')
 plt.ylabel('y')
-plt.plot(x, y, 'og')
+plt.plot(x, y1, 'g--')
+plt.plot(x, y2, '--')
+plt.legend()
 plt.show()
 
 x =  [5,8,10]
