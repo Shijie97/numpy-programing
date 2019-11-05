@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/trainer.py" line="41" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f386b15a-756c-466e-ab47-3b203b7cf8c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch05/train_neuralnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch05/two_layer_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/Five_Layer_Network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/batch_norm_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/optimizer_compare_minist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_dropout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_weight_decay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/weight_init_activation_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/layers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/multi_layer_net_extend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/multi_layer_net_extend_with_dropout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/optimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/10-someQuestion(8).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/7-someQuestion(5).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/8-someQuestion(6).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/9-someQuestion(7).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PyPrograming/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/.idea/My-Deep-Learning-from-scratch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/.idea/My-Deep-Learning-from-scratch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch04/train_neuralnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch04/train_neuralnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/gradient.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/NumpyPrograming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NumpyPrograming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch07/2-matplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/2-matplotlib.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PyPrograming/.idea/PyPrograming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PyPrograming/.idea/PyPrograming.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PyPrograming/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PyPrograming/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PyPrograming/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PyPrograming/.idea/modules.xml" afterDir="false" />
@@ -40,30 +23,83 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NumpyPrograming$overfit_dropout.coverage" NAME="overfit_dropout Coverage Results" MODIFIED="1566372779090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$5_DataFrame_3_.coverage" NAME="5-DataFrame(3) Coverage Results" MODIFIED="1566530482900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_Statistic.coverage" NAME="3-Statistic Coverage Results" MODIFIED="1566616503357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$train_convnet.coverage" NAME="train_convnet Coverage Results" MODIFIED="1566961486934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_window.coverage" NAME="2-window Coverage Results" MODIFIED="1567234104225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_slice_index_2_.coverage" NAME="2-slice&amp;index(2) Coverage Results" MODIFIED="1564293759592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_option.coverage" NAME="1-option Coverage Results" MODIFIED="1567215671833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_broadcast_1_.coverage" NAME="1-broadcast(1) Coverage Results" MODIFIED="1564295336424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_index_select.coverage" NAME="1-index&amp;select Coverage Results" MODIFIED="1567217081718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_math_2_.coverage" NAME="2-math(2) Coverage Results" MODIFIED="1564306680330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$6_statistic_4_.coverage" NAME="6-statistic(4) Coverage Results" MODIFIED="1567219746406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_ndarray.coverage" NAME="1-ndarray Coverage Results" MODIFIED="1564281475759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$5_sort_values.coverage" NAME="5-sort_values Coverage Results" MODIFIED="1566705623557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch04" />
     <SUITE FILE_PATH="coverage/NumpyPrograming$3_reshape.coverage" NAME="3-reshape Coverage Results" MODIFIED="1564298228778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
     <SUITE FILE_PATH="coverage/NumpyPrograming$multi_layer_net_extend.coverage" NAME="multi_layer_net_extend Coverage Results" MODIFIED="1566354293603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$overfit_weight_decay.coverage" NAME="overfit_weight_decay Coverage Results" MODIFIED="1566355720647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$overfit_dropout.coverage" NAME="overfit_dropout Coverage Results" MODIFIED="1566372779090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$1_copy_view.coverage" NAME="1-copy&amp;view Coverage Results" MODIFIED="1566352434016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$6_append_insert_delete.coverage" NAME="6-append&amp;insert&amp;delete Coverage Results" MODIFIED="1564300396002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$4_concatenate.coverage" NAME="4-concatenate Coverage Results" MODIFIED="1564297409961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$2_nditer.coverage" NAME="2-nditer Coverage Results" MODIFIED="1564296137060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$2_slice_index_2_.coverage" NAME="2-slice&amp;index(2) Coverage Results" MODIFIED="1564293759592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_groupby_apply.coverage" NAME="4-groupby&amp;apply Coverage Results" MODIFIED="1567397245709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$6_np_where.coverage" NAME="6-np_where Coverage Results" MODIFIED="1567242307240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$hyperparameter_optimization.coverage" NAME="hyperparameter_optimization Coverage Results" MODIFIED="1566474207489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_Series_Basis.coverage" NAME="1-Series&amp;Basis Coverage Results" MODIFIED="1566614057703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_iterate.coverage" NAME="3-iterate Coverage Results" MODIFIED="1566703819800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_category.coverage" NAME="4-category Coverage Results" MODIFIED="1567863097265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$simple_convnet.coverage" NAME="simple_convnet Coverage Results" MODIFIED="1566979623028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_mnist.coverage" NAME="1-mnist Coverage Results" MODIFIED="1568516773547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TensorFlowPrograming/ch01" />
     <SUITE FILE_PATH="coverage/NumpyPrograming$1_math_1_.coverage" NAME="1-math(1) Coverage Results" MODIFIED="1564303541874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$layers.coverage" NAME="layers Coverage Results" MODIFIED="1566979646069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_concat.coverage" NAME="2-concat Coverage Results" MODIFIED="1567850762269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch07" />
     <SUITE FILE_PATH="coverage/NumpyPrograming$7_unique.coverage" NAME="7-unique Coverage Results" MODIFIED="1564300440471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
     <SUITE FILE_PATH="coverage/NumpyPrograming$5_nonzero_where_extract.coverage" NAME="5-nonzero&amp;where&amp;extract Coverage Results" MODIFIED="1564311739338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/NumpyPrograming$4_split.coverage" NAME="4-split Coverage Results" MODIFIED="1564297715510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$6_add_remove.coverage" NAME="6-add&amp;remove Coverage Results" MODIFIED="1564299582518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$3_math_3_.coverage" NAME="3-math(3) Coverage Results" MODIFIED="1564309595928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$3_slice_index_3_.coverage" NAME="3-slice&amp;index(3) Coverage Results" MODIFIED="1564294618512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$1_broadcast_1_.coverage" NAME="1-broadcast(1) Coverage Results" MODIFIED="1564295336424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$3_ndarray_3_.coverage" NAME="3-ndarray(3) Coverage Results" MODIFIED="1564283084336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$4_sort.coverage" NAME="4-sort Coverage Results" MODIFIED="1564311010264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$1_slice_index_1_.coverage" NAME="1-slice&amp;index(1) Coverage Results" MODIFIED="1564291387866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$2_math_2_.coverage" NAME="2-math(2) Coverage Results" MODIFIED="1564306680330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$overfit_dropout__1_.coverage" NAME="overfit_dropout (1) Coverage Results" MODIFIED="1566372107283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$6_DataFrame_4_.coverage" NAME="6-DataFrame(4) Coverage Results" MODIFIED="1567215886319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch02" />
     <SUITE FILE_PATH="coverage/NumpyPrograming$2_ndarray_2_.coverage" NAME="2-ndarray(2) Coverage Results" MODIFIED="1564281770510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
-    <SUITE FILE_PATH="coverage/NumpyPrograming$1_ndarray.coverage" NAME="1-ndarray Coverage Results" MODIFIED="1564281475759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_Series_2_.coverage" NAME="2-Series(2) Coverage Results" MODIFIED="1566526606071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$5_replace.coverage" NAME="5-replace Coverage Results" MODIFIED="1567242236961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_test.coverage" NAME="1-test Coverage Results" MODIFIED="1568454060382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PytorchPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_nditer.coverage" NAME="2-nditer Coverage Results" MODIFIED="1564296137060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1567052103035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_Statistic_2_.coverage" NAME="4-Statistic(2) Coverage Results" MODIFIED="1566619737492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_DataFrame_Basis.coverage" NAME="2-DataFrame&amp;Basis Coverage Results" MODIFIED="1566615174033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$6_string.coverage" NAME="6-string Coverage Results" MODIFIED="1566706867696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$6_add_remove.coverage" NAME="6-add&amp;remove Coverage Results" MODIFIED="1564299582518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_DataFrame_sort_3_.coverage" NAME="3-DataFrame_sort(3) Coverage Results" MODIFIED="1566440399204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_DataFrame_choose.coverage" NAME="4-DataFrame_choose Coverage Results" MODIFIED="1566441918828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_slice_index_3_.coverage" NAME="3-slice&amp;index(3) Coverage Results" MODIFIED="1564294618512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$params_validation.coverage" NAME="params_validation Coverage Results" MODIFIED="1567056642333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$train_convnet__1_.coverage" NAME="train_convnet (1) Coverage Results" MODIFIED="1567056680211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_if.coverage" NAME="1-if Coverage Results" MODIFIED="1568454052068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyPrograming/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_beginning_2_.coverage" NAME="2-beginning(2) Coverage Results" MODIFIED="1568516775617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TensorFlowPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_sort.coverage" NAME="4-sort Coverage Results" MODIFIED="1566703940466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_merge.coverage" NAME="1-merge Coverage Results" MODIFIED="1568454015553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$overfit_dropout__1_.coverage" NAME="overfit_dropout (1) Coverage Results" MODIFIED="1566372107283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_Series_DataFrame_2_.coverage" NAME="1-Series&amp;DataFrame(2) Coverage Results" MODIFIED="1566440179174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$overfit_weight_decay.coverage" NAME="overfit_weight_decay Coverage Results" MODIFIED="1566355720647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$5_DataFrame_choose_2_.coverage" NAME="5-DataFrame_choose(2) Coverage Results" MODIFIED="1566443006437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$5_Statisitc_3_.coverage" NAME="5-Statisitc(3) Coverage Results" MODIFIED="1566620089190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_copy_view.coverage" NAME="1-copy&amp;view Coverage Results" MODIFIED="1566352434016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_groupby_filter.coverage" NAME="3-groupby&amp;filter Coverage Results" MODIFIED="1567390759315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$6_append_insert_delete.coverage" NAME="6-append&amp;insert&amp;delete Coverage Results" MODIFIED="1564300396002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_concatenate.coverage" NAME="4-concatenate Coverage Results" MODIFIED="1564297409961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$apply_filter.coverage" NAME="apply_filter Coverage Results" MODIFIED="1567055523457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_function.coverage" NAME="1-function Coverage Results" MODIFIED="1566699458937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_DataFrame_1_.coverage" NAME="3-DataFrame(1) Coverage Results" MODIFIED="1566527913020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$5_category_2_.coverage" NAME="5-category(2) Coverage Results" MODIFIED="1567863690250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_reindex.coverage" NAME="2-reindex Coverage Results" MODIFIED="1566700389550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_gruopby.coverage" NAME="1-gruopby Coverage Results" MODIFIED="1567263451205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$7_Panel_1_.coverage" NAME="7-Panel(1) Coverage Results" MODIFIED="1566613038432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$2_gruopby_transform.coverage" NAME="2-gruopby&amp;transform Coverage Results" MODIFIED="1567389477747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch06" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_math_3_.coverage" NAME="3-math(3) Coverage Results" MODIFIED="1564309595928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_first_step.coverage" NAME="1-first_step Coverage Results" MODIFIED="1566438010747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$6_DataFrame_choose_3_.coverage" NAME="6-DataFrame_choose(3) Coverage Results" MODIFIED="1566449431252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_aggregate.coverage" NAME="3-aggregate Coverage Results" MODIFIED="1567236796465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_DataFrame_2_.coverage" NAME="4-DataFrame(2) Coverage Results" MODIFIED="1567238358387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$4_missing_value.coverage" NAME="4-missing_value Coverage Results" MODIFIED="1567238911583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch05" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_ndarray_3_.coverage" NAME="3-ndarray(3) Coverage Results" MODIFIED="1564283084336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_slice_index_1_.coverage" NAME="1-slice&amp;index(1) Coverage Results" MODIFIED="1564291387866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$3_date.coverage" NAME="3-date Coverage Results" MODIFIED="1567851503219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch07" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$7_DataFrame_choose_4_.coverage" NAME="7-DataFrame_choose(4) Coverage Results" MODIFIED="1566451193893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch01" />
+    <SUITE FILE_PATH="coverage/NumpyPrograming$1_Series.coverage" NAME="1-Series Coverage Results" MODIFIED="1566526033462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PandasPrograming/ch02" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -82,88 +118,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch08/train_deepnet.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/hyperparameter_optimization.py">
+        <entry file="file://$PROJECT_DIR$/../TensorFlowPrograming/ch01/1-beginning(1).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/optimizer_compare_naive.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/optimizer_compare_minist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_weight_decay.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="242">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
-                <element signature="e#44#62#0" expanded="true" />
+                <element signature="e#44#67#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/weight_init_activation_histogram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding>
-                <element signature="e#44#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/batch_norm_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/dataset/mnist.py">
+        <entry file="file://$PROJECT_DIR$/../TensorFlowPrograming/ch01/2-beginning(2).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="77" column="36" lean-forward="true" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+            <state relative-caret-position="396">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
-                <element signature="e#118#132#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/weight_init_activation_histogram.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/overfit_weight_decay.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#16#25#0" expanded="true" />
+                <element signature="e#44#67#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,60 +158,85 @@
       <find>super</find>
       <find>weight_decay</find>
       <find>dropput</find>
+      <find>map</find>
+      <find>zeros</find>
+      <find>1111111111111111</find>
+      <find>9999999</find>
+      <find>applymap</find>
+      <find>apply</find>
+      <find>append</find>
     </findStrings>
     <replaceStrings>
       <replace>dropput</replace>
       <replace>dropout</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\PyLearn\My-Deep-Learning-from-scratch</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PyPrograming" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch01/1-Ndarray.py" />
-        <option value="$PROJECT_DIR$/ch01/1-ndarray.py" />
-        <option value="$PROJECT_DIR$/ch01/2-ndarray(2).py" />
-        <option value="$PROJECT_DIR$/ch01/3-ndarray(3).py" />
-        <option value="$PROJECT_DIR$/ch02/1-slice&amp;index.py" />
-        <option value="$PROJECT_DIR$/ch02/1-slice&amp;index(1).py" />
-        <option value="$PROJECT_DIR$/ch02/2-slice&amp;index(2).py" />
-        <option value="$PROJECT_DIR$/ch02/3-slice&amp;index(3).py" />
-        <option value="$PROJECT_DIR$/ch03/1-broadcast(1).py" />
-        <option value="$PROJECT_DIR$/ch03/1-broadcast.py" />
-        <option value="$PROJECT_DIR$/ch03/2-nditer.py" />
-        <option value="$PROJECT_DIR$/ch03/3-dealWithArray.py" />
-        <option value="$PROJECT_DIR$/ch03/4-concatenate.py" />
-        <option value="$PROJECT_DIR$/ch03/4-split.py" />
-        <option value="$PROJECT_DIR$/ch03/5-add&amp;remove.py" />
-        <option value="$PROJECT_DIR$/ch03/3-reshape.py" />
-        <option value="$PROJECT_DIR$/ch03/6-add&amp;remove.py" />
-        <option value="$PROJECT_DIR$/ch03/6-append&amp;insert&amp;delete.py" />
-        <option value="$PROJECT_DIR$/ch03/7-unique.py" />
-        <option value="$PROJECT_DIR$/ch04/1-math.py" />
-        <option value="$PROJECT_DIR$/ch04/1-math(1).py" />
-        <option value="$PROJECT_DIR$/ch04/2-math(2).py" />
-        <option value="$PROJECT_DIR$/ch04/3-math(3).py" />
-        <option value="$PROJECT_DIR$/ch04/4-sort.py" />
-        <option value="$PROJECT_DIR$/ch04/5-nonezero&amp;where&amp;extract.py" />
-        <option value="$PROJECT_DIR$/ch04/5-nonzero&amp;where&amp;extract.py" />
-        <option value="$PROJECT_DIR$/ch05/1-copy&amp;view.py" />
-        <option value="$PROJECT_DIR$/ch05/1-copy&amp;view(1).py" />
-        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/batch_norm_test.py" />
-        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_weight_decay.py" />
-        <option value="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/overfit_dropout.py" />
-        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/MultiLayerNetExtend_With_Dropout.py" />
-        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/layers.py" />
+        <option value="$PROJECT_DIR$/../PytorchPrograming/ch01/1-test.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch02/6-DataFrame(4).py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch02/7-Panel(1).py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch03/1-Series&amp;Basis.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch03/2-DataFrame&amp;Basis.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch03/3-Statistic.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch03/4-Statistic(2).py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch03/5-Statisitc(3).py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch04/1-function.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch04/2-reindex.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch04/3-iterate.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch04/4-sort.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch04/5-sort_values.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch04/6-string.py" />
+        <option value="$PROJECT_DIR$/../Deep-Learning-from-scratch/common/util.py" />
+        <option value="$PROJECT_DIR$/../Deep-Learning-from-scratch/common/layers.py" />
+        <option value="$PROJECT_DIR$/../Deep-Learning-from-scratch/common/multi_layer_net.py" />
+        <option value="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch07/simple_convnet.py" />
+        <option value="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch07/train_convnet.py" />
         <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/multi_layer_net_extend.py" />
-        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/multi_layer_net_extend_with_dropout.py" />
-        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_dropout.py" />
+        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/util.py" />
+        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/functions.py" />
+        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/trainer.py" />
+        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07/train_convnet.py" />
+        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07/simple_convnet.py" />
+        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07/params_validation.py" />
+        <option value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/layers.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch05/1-option.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch05/1-index&amp;select.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch03/6-statistic(4).py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch05/2-window.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch05/3-aggregate.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch02/4-DataFrame(2).py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch05/4-missing_value.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch05/5-replace.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch05/6-np_where.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch06/1-gruopby.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch06/3-groupby&amp;filter.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch06/2-gruopby&amp;transform.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch06/4-groupby&amp;apply.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch06/1-gruopby&amp;aggregate.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch07/1-merge.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch07/2-concat.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch07/2-concat&amp;append.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch07/3-date.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch07/4-category.py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch07/4-category(1).py" />
+        <option value="$PROJECT_DIR$/../PandasPrograming/ch07/5-category(2).py" />
+        <option value="$PROJECT_DIR$/../TensorFlowPrograming/ch01/input.py" />
+        <option value="$PROJECT_DIR$/../TensorFlowPrograming/ch01/1-mnist.py" />
+        <option value="$PROJECT_DIR$/../TensorFlowPrograming/ch01/2-beginning(2).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="75" />
-    <option name="y" value="100" />
+    <option name="x" value="350" />
+    <option name="y" value="10" />
     <option name="width" value="1750" />
     <option name="height" value="1035" />
   </component>
@@ -257,16 +254,16 @@
           <expand>
             <path>
               <item name="NumpyPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep-Learning-from-scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlowPrograming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NumpyPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Deep-Learning-from-scratch" type="462c0819:PsiDirectoryNode" />
+              <item name="TensorFlowPrograming" type="462c0819:PsiDirectoryNode" />
+              <item name="ch01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NumpyPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My-Deep-Learning-from-scratch" type="462c0819:PsiDirectoryNode" />
-              <item name="ch06" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +273,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorFlowPrograming" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -293,21 +290,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.overfit_dropout">
-    <configuration name="1-copy&amp;view" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NumpyPrograming" />
+  <component name="RunManager" selected="Python.2-beginning(2)">
+    <configuration name="1-if" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PyPrograming/ch04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PyLearn\NumpyPrograming\ch05\1-copy&amp;view(1).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PyPrograming/ch04/1-if.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,20 +313,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multi_layer_net_extend" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="My-Deep-Learning-from-scratch" />
+    <configuration name="1-merge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PandasPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PandasPrograming/ch07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/multi_layer_net_extend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PandasPrograming/ch07/1-merge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,20 +335,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="overfit_dropout (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Deep-Learning-from-scratch" />
+    <configuration name="1-mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlowPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TensorFlowPrograming/ch01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/overfit_dropout.py" />
+      <option name="SCRIPT_NAME" value="D:\PyLearn\TensorFlowPrograming\ch01\1-beginning(1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,20 +357,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="overfit_dropout" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="My-Deep-Learning-from-scratch" />
+    <configuration name="1-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PytorchPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PytorchPrograming/ch01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_dropout.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PytorchPrograming/ch01/1-test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,20 +379,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="overfit_weight_decay" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="My-Deep-Learning-from-scratch" />
+    <configuration name="2-beginning(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorFlowPrograming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TensorFlowPrograming/ch01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_weight_decay.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TensorFlowPrograming/ch01/2-beginning(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,11 +403,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.overfit_dropout" />
-        <item itemvalue="Python.overfit_dropout (1)" />
-        <item itemvalue="Python.overfit_weight_decay" />
-        <item itemvalue="Python.multi_layer_net_extend" />
-        <item itemvalue="Python.1-copy&amp;view" />
+        <item itemvalue="Python.2-beginning(2)" />
+        <item itemvalue="Python.1-mnist" />
+        <item itemvalue="Python.1-test" />
+        <item itemvalue="Python.1-if" />
+        <item itemvalue="Python.1-merge" />
       </list>
     </recent_temporary>
   </component>
@@ -428,392 +425,503 @@
       <workItem from="1564360189877" duration="1959000" />
       <workItem from="1565868331669" duration="35000" />
       <workItem from="1566351034276" duration="17006000" />
+      <workItem from="1566383831521" duration="556000" />
+      <workItem from="1566384549324" duration="1242000" />
+      <workItem from="1566436581384" duration="9009000" />
+      <workItem from="1566451050627" duration="22000" />
+      <workItem from="1566451091814" duration="16308000" />
+      <workItem from="1566524455923" duration="7131000" />
+      <workItem from="1566541309077" duration="2279000" />
+      <workItem from="1566612709600" duration="10527000" />
+      <workItem from="1566625302437" duration="4635000" />
+      <workItem from="1566696264523" duration="9566000" />
+      <workItem from="1566708823886" duration="2911000" />
+      <workItem from="1566732874182" duration="3023000" />
+      <workItem from="1566783344452" duration="5246000" />
+      <workItem from="1566794019451" duration="9091000" />
+      <workItem from="1566830428548" duration="326000" />
+      <workItem from="1566871619502" duration="13551000" />
+      <workItem from="1566918706856" duration="1538000" />
+      <workItem from="1566958174525" duration="20742000" />
+      <workItem from="1567043324546" duration="12321000" />
+      <workItem from="1567073254802" duration="1481000" />
+      <workItem from="1567215456573" duration="15664000" />
+      <workItem from="1567259951771" duration="3922000" />
+      <workItem from="1567303314542" duration="5415000" />
+      <workItem from="1567388459990" duration="10287000" />
+      <workItem from="1567824695319" duration="7774000" />
+      <workItem from="1568453752825" duration="167000" />
+      <workItem from="1568453967621" duration="1966000" />
+      <workItem from="1568456001531" duration="2573000" />
+      <workItem from="1568468500287" duration="1029000" />
+      <workItem from="1568513328797" duration="2175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41574000" />
+    <option name="totallyTimeSpent" value="224051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-7" width="1488" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26013985" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20886075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.3292011" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.2520661" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.34710744" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.29614326" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="62" y="0" width="1474" height="864" id="SciView" order="3" weight="0.32867134" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32867134" />
+      <window_info anchor="right" x="62" y="0" width="1474" height="864" id="SciView" order="3" weight="0.32841069" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32841069" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26013985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21026723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.3292011" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.2520661" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.26859504" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.29614326" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3292011" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="62" y="0" width="1474" height="864" id="SciView" order="3" weight="0.32867134" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32867134" />
+      <window_info anchor="right" x="62" y="0" width="1474" height="864" id="SciView" order="3" weight="0.32841069" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32841069" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+        <watch expression="self" />
+        <watch expression="grads" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07/simple_convnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/ProgramData/envs/learnPy/Lib/site-packages/numpy/core/fromnumeric.py" />
-    <entry file="file://$PROJECT_DIR$/ch04/3-math(3).py">
+    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/trainer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="199">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/4-sort.py">
+    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch07/simple_convnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="285">
+          <caret line="153" column="35" lean-forward="true" selection-start-line="153" selection-start-column="35" selection-end-line="153" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/1-broadcast.py">
+    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch07/apply_filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="173">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/3-slice&amp;index(3).py">
+    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07/params_validation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/2-slice&amp;index(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/1-slice&amp;index(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/3-ndarray(3).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/1-ndarray(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/2-ndarray(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/ProgramData/envs/learnPy/Lib/site-packages/numpy/lib/function_base.py" />
-    <entry file="file://$PROJECT_DIR$/ch03/4-concatenate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/3-reshape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/5-split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/6-append&amp;insert&amp;delete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/2-nditer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/7-unique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/2-math(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/1-math(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04/5-nonzero&amp;where&amp;extract.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch05/1-copy&amp;view(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/Five_Layer_Network.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/common/optimizer.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/optimizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/common/layers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PyPrograming/ch09/3-derive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/common/gradient.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/common/trainer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1694">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/common/multi_layer_net.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/common/multi_layer_net_extend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2615">
-          <caret line="160" column="27" selection-start-line="160" selection-start-column="27" selection-end-line="160" selection-end-column="27" />
+        <state relative-caret-position="264">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#44#80#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/layers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2079">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        <state relative-caret-position="333">
+          <caret line="299" column="7" selection-start-line="299" selection-start-column="7" selection-end-line="299" selection-end-column="7" />
           <folding>
             <element signature="e#44#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/multi_layer_net_extend_with_dropout.py">
+    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch07/train_convnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding>
-            <element signature="e#44#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/common/multi_layer_net_extend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+        <state relative-caret-position="308">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding>
             <element signature="e#44#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_dropout.py">
+    <entry file="file://D:/ProgramData/envs/learnPy/Lib/site-packages/pandas/_config/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1679">
-          <caret line="93" column="48" lean-forward="true" selection-start-line="93" selection-start-column="48" selection-end-line="93" selection-end-column="48" />
+        <state relative-caret-position="-237">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyPrograming/ch04/7-function(2).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyPrograming/ch04/8-function(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyPrograming/ch04/9-function(4).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyPrograming/ch04/10-function(5).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyPrograming/ch04/11-lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch03/6-statistic(4).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch01/1-Series&amp;DataFrame(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch05/2-window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/envs/learnPy/Lib/site-packages/pandas/core/window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="805" column="8" selection-start-line="805" selection-start-column="8" selection-end-line="805" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch03/5-Statisitc(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch05/1-index&amp;select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch02/5-DataFrame(3).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-910">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+            <marker date="1566530267725" expanded="true" signature="570:646" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch03/2-DataFrame&amp;Basis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch01/4-DataFrame_choose(1).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch01/3-DataFrame_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch04/2-reindex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="131" column="54" lean-forward="true" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch05/5-replace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/envs/learnPy/Lib/site-packages/pandas/core/groupby/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="879" column="4" selection-start-line="879" selection-start-column="4" selection-end-line="879" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch05/4-missing_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+            <marker date="1567238642799" expanded="true" signature="256:319" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch05/6-np_where.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch02/4-DataFrame(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch06/2-gruopby&amp;transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="74" column="34" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch05/3-aggregate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch04/1-function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch06/4-groupby&amp;apply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch06/3-groupby&amp;filter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch06/1-gruopby&amp;aggregate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="124" column="18" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch07/1-merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch02/6-DataFrame(4).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
           <folding>
             <element signature="e#44#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch08/misclassified_mnist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch08/half_float_network.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch08/deep_convnet.py">
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch07/2-concat&amp;append.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch08/awesome_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/overfit_dropout.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/optimizer_compare_mnist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/weight_init_activation_histogram.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/overfit_weight_decay.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="379">
+          <caret line="101" column="36" lean-forward="true" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
           <folding>
-            <element signature="e#16#25#0" expanded="true" />
+            <element signature="e#44#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch08/train_deepnet.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/hyperparameter_optimization.py">
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch07/3-date.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="314">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/ch06/optimizer_compare_naive.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/optimizer_compare_minist.py">
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch07/5-category(2).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66" />
+        <state relative-caret-position="550">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#44#63#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/overfit_weight_decay.py">
+    <entry file="file://$PROJECT_DIR$/../PandasPrograming/ch07/4-category(1).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="620">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
           <folding>
             <element signature="e#44#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/weight_init_activation_histogram.py">
+    <entry file="file://$PROJECT_DIR$/../PytorchPrograming/ch01/1-test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="418">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/envs/tensorflow-gpu/Lib/site-packages/tensorflow/python/ops/math_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26554">
+          <caret line="1236" column="4" selection-start-line="1236" selection-start-column="4" selection-end-line="1236" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyPrograming/ch04/1-if.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/ProgramData/envs/tensorflow-gpu/Lib/site-packages/tensorflow/contrib/training/python/training/sequence_queueing_state_saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1946">
+          <caret line="922" column="6" selection-start-line="922" selection-start-column="6" selection-end-line="922" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ProgramData/envs/tensorflow-gpu/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3718">
+          <caret line="182" column="6" selection-start-line="182" selection-start-column="6" selection-end-line="182" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/common/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TensorFlowPrograming/ch01/input_data.py" />
+    <entry file="file://D:/ProgramData/envs/tensorflow-gpu/Lib/site-packages/tensorflow/contrib/eager/python/examples/rnn_ptb/rnn_ptb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="230" column="9" selection-start-line="230" selection-start-column="9" selection-end-line="230" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TensorFlowPrograming/ch01/1-beginning(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
-            <element signature="e#44#62#0" expanded="true" />
+            <element signature="e#44#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../My-Deep-Learning-from-scratch/ch06/batch_norm_test.py">
+    <entry file="file://$PROJECT_DIR$/../TensorFlowPrograming/ch01/2-beginning(2).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Deep-Learning-from-scratch/dataset/mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="77" column="36" lean-forward="true" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        <state relative-caret-position="396">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
-            <element signature="e#118#132#0" expanded="true" />
+            <element signature="e#44#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
